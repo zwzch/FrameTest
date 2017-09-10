@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact name="FrameTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FrameTest_jar</output-path>
+    <root id="root">
+      <element id="archive" name="FrameTest.jar">
+        <element id="module-output" name="FrameTest" />
+      </element>
+      <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-core:2.8.2" />
+      <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.8.2" />
+      <element id="library" level="project" name="Maven: xml-apis:xml-apis:1.0.b2" />
+      <element id="library" level="project" name="Maven: org.apache.maven.plugins:maven-install-plugin:2.3.1" />
+      <element id="library" level="project" name="Maven: redis.clients:jedis:2.9.0" />
+      <element id="library" level="project" name="Maven: org.apache.commons:commons-pool2:2.4.2" />
+      <element id="library" level="project" name="Maven: dom4j:dom4j:1.6.1" />
+    </root>
+  </artifact>
+</component>

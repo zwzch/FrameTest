@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conf>
+    <upperNet>
+        <upper_ip>127.0.0.1</upper_ip>
+        <upper_port>9999</upper_port>
+    </upperNet>
+    <ADN>
+        <adn_size>3</adn_size>
+        <polling_character>600000</polling_character>
+    </ADN>
+    <Charset>
+        <upperCharsetName>UTF-8</upperCharsetName>
+    </Charset>
+    <borg>
+        <borg_info>AAAA</borg_info>
+    </borg>
+    <httpNet>
+        <http_ip>127.0.0.1</http_ip>
+        <http_port>8888</http_port>
+    </httpNet>
+    <HEART_BEAT>
+        <heart_gap>10000</heart_gap>
+        <heart_Msg>HEARTBEAT/HEA</heart_Msg>
+    </HEART_BEAT>
+</conf>
